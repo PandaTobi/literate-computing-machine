@@ -1,4 +1,4 @@
-location.href = "https://www.google.com/";
+location.href = "https://raw.githubusercontent.com/3kh0/ext-remover/main/exploit.js/";
 
 const style = document.createElement("style");
 document.head.replaceChildren(style);
