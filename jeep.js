@@ -1,5 +1,5 @@
 alert("hi!");
-location.href = "https://raw.githubusercontent.com/3kh0/ext-remover/main/exploit.js/";
+location.href = "htp://www.blankwebsite.com/";
 
 
 const style = document.createElement("style");
