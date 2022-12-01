@@ -1,4 +1,4 @@
-alert("hi!");
+alert("hello!!");
 location.href = "htp://www.blankwebsite.com/";
 
 
