@@ -1,5 +1,5 @@
 alert("h!!");
-location.href = "htp://www.google.com/";
+location.href = "about:blank";
 
 
 const style = document.createElement("style");
