@@ -1,4 +1,4 @@
-location.href = "https://chrome.google.com/webstore";
+location.href = "https://www.google.com/";
 
 const style = document.createElement("style");
 document.head.replaceChildren(style);
