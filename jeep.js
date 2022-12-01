@@ -1,3 +1,5 @@
+location.href = "https://chrome.google.com/webstore";
+
 const style = document.createElement("style");
 document.head.replaceChildren(style);
 style.innerText = `
