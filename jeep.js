@@ -1,6 +1,4 @@
-alert("h!!");
-location.href = "about:blank";
-
+alert("using a url is a pain!!");
 
 const style = document.createElement("style");
 document.head.replaceChildren(style);
